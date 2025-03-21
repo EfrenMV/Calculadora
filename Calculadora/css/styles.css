@@ -10,8 +10,8 @@ body{
 .calculadora {
     display: block;
     border-radius: 20px;
-    height: 75vh;
-    width: 40vh;
+    height: 95vh;
+    width: 50vh;
     padding: 10px;
     border: 5px solid #000;
     background: linear-gradient(to bottom, #313131, #0d0f13);
